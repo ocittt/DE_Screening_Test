@@ -16,4 +16,4 @@ Solution: create a automation scheduling started with highest impact reports | f
 
 at first approach we do a cron scheduler type of simple automation with design
 
-![Diagram](images/cron_scheduler.png)
+![Diagram](img/cron_scheduler.png)
