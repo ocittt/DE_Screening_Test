@@ -1,6 +1,6 @@
 ## About me
 
-I'm an early-career Database Administrator with good foundational on SQL. I'll be honest about what i can do weell and transparent about the specific areas where im still learning.
+With good foundational on SQL. I'll be honest about what i can do well and transparent about the specific areas.
 
 ## Topics
 
